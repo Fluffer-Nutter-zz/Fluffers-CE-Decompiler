@@ -1,0 +1,6 @@
+{
+  "name": "Fluffer's CE Decompiler",
+  "tagline": "This tool will decompile any cetrainer made with CE and return it back to a ct file.",
+  "body": "### DISCLAMER\r\nThis tool is for testing purposes only. In no way should this tool be used to steal. This was created to check to make sure trainers are clear of any malicious code.\r\n\r\n### LICENSE INFORMATION\r\nThis tool is 100% open source but is protected under the GNU GENERAL PUBLIC LICENSE. This entitles anyone to view / edit the code and distribute the tool. But can not be sold. When distributing the tool make sure to add the GNU GENERAL PUBLIC LICENSE to the file.\r\n\r\n### PROJECT CONTRIBUTORS\r\nIf you would like to contribute to the project feel free. Any and all changes in new releases will have credit section for anyone who contributes.\r\n\r\n### Authors and Contributors\r\nFluffer Nutter\r\n\r\n### Support or Contact\r\nTwitter: <br> https://twitter.com/Fluffer_Nutter_ <br>\r\nGoogle+: <br> https://plus.google.com/b/117929722454561349984/117929722454561349984 <br>\r\nYouTube: <br> https://www.youtube.com/channel/UCK1-T-bX7MW__mBNEwB2qDg",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
