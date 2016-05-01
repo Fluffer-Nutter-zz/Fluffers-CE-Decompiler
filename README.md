@@ -11,6 +11,6 @@ If you would like to contribute to the project feel free. Any and all changes in
 Fluffer Nutter
 
 ### Support or Contact
-Twitter: https://twitter.com/Fluffer_Nutter_
-Google+: https://plus.google.com/b/117929722454561349984/117929722454561349984
-YouTube: https://www.youtube.com/channel/UCK1-T-bX7MW__mBNEwB2qDg
+Twitter: <br> https://twitter.com/Fluffer_Nutter_ <br>
+Google+: <br> https://plus.google.com/b/117929722454561349984/117929722454561349984 <br>
+YouTube: <br> https://www.youtube.com/channel/UCK1-T-bX7MW__mBNEwB2qDg
